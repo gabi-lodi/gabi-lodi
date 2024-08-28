@@ -23,7 +23,7 @@
 
     ⌗ graphic designer and computer science student  
                                             
-    ⌗౨ৎ skills:
+    ⌗   skills:
         → data science
         → graphic design
         → digital art
