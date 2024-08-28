@@ -10,21 +10,21 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        𓂃 gabi-lodi ᯓᡣ𐭩
+        -`,  gabi-lodi ᯓᡣ𐭩
     
 </p>                                                                                                                            
                                                                                                   
                                                                                                     
         
-    𓂃 about me:
+    𓂃 🖇 about me:
 
     
     ⌗ she/her - (pt/br + english)
 
     ⌗ graphic designer and computer science student  
                                             
-    ⌗ 𐙚 skills:
-        ⤷ data science
-        ⤷ english
-        ⤷ graphic design
-        ⤷ digital art
+    ⌗౨ৎ skills:
+        → data science
+        → graphic design
+        → digital art
+        
