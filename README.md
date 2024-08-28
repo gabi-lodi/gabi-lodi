@@ -5,7 +5,7 @@
         <!-- Ajuste da largura da célula -->
         <td style="width: 70%;">
             <!-- Ajuste da largura da imagem -->
-            <img src="https://cdn.discordapp.com/attachments/1267549708369526850/1278399095936913479/1173a0970b02ff178bb6eadf98ebbd96.jpg?ex=66d0a96f&is=66cf57ef&hm=6ab02608cff5f895015afcf87a29d476a75c193263288e6e9e601d05427c78ac&" style="width:100%; border: none;"/>
+            <img src="https://cdn.discordapp.com/attachments/1258475263948361831/1278468016606023722/84b84caca5149ed046338b22c708330c.jpg?ex=66d0e99f&is=66cf981f&hm=0f98f9b4a20f071c6ce42b4f8225e2a9550d42b7e1a18aca292db1f1e7db7651&" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
