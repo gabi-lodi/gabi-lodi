@@ -27,4 +27,9 @@
         → data science
         → graphic design
         → digital art
+<img src='https://cdn.discordapp.com/attachments/1258475263948361831/1284913805440061563/Desenho_sem_titulo-2.png?ex=66e85cbb&is=66e70b3b&hm=5cd90366644ac1c8980462ed8fab476bdd6aa7f32903bd0aa7bb9d229bb93d85&'>
+
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabi-lodi&theme=graywhite)
+
+
         
